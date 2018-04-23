@@ -1,0 +1,35 @@
+ERRO! Elemento #7 possui erro de sintaxe.
+
+Lista encadeada de elementos:
+
+#0: RES [0]; n+[1], n-[0]; value=5.000000e+00
+#1: RES [1]; n+[1], n-[2]; value=1.000000e+01
+#2: RES [2]; n+[2], n-[3]; value=3.000000e+00
+#3: IS  [3]; n+[2], n-[4]; value=3.000000e+00
+#4: IS  [4]; n+[4], n-[3]; value=2.000000e+00
+#5: VS  [5]; n+[3], n-[0]; value=1.800000e+01
+#6: VS  [6]; n+[4], n-[5]; value=9.000000e+00
+#7: VS  [7];   <--- ERRO!
+#8: RES [8]; n+[6], n-[0]; value=9.000000e+00
+
+Vetor id do no => rotulo do no:
+
+No 0: 0
+No 1: node_A
+No 2: node_B
+No 3: node_C
+No 4: node_D
+No 5: node_E
+No 6: node_F
+
+Vetor id do rotulo => rotulo:
+
+Rotulo 0: R_Rleft
+Rotulo 1: R_Rtopleft
+Rotulo 2: R_Rmiddle
+Rotulo 3: I_Itop
+Rotulo 4: I_Iright
+Rotulo 5: V_Vbottom
+Rotulo 6: V_Vright
+Rotulo 7: V_Vright_erro
+Rotulo 8: R_Rright

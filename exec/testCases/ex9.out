@@ -1,0 +1,91 @@
+Lista encadeada de elementos:
+
+#0: MOS [0]; nd[1], ng[2], ns[3]; value=PMOS_VTL
+#1: MOS [1]; nd[4], ng[5], ns[6]; value=NMOS_VTL
+#2: CAP [2]; n+[7], n-[7]; value=4.042850e-17
+#3: CAP [3]; n+[7], n-[8]; value=1.051240e-17
+#4: CAP [4]; n+[7], n-[6]; value=2.316360e-17
+#5: RES [5]; n+[7], n-[8]; value=1.788240e-01
+#6: RES [6]; n+[8], n-[9]; value=2.642210e-01
+#7: RES [7]; n+[6], n-[9]; value=6.378570e-01
+#8: CAP [8]; n+[7], n-[10]; value=4.079450e-17
+#9: CAP [9]; n+[7], n-[11]; value=1.043560e-17
+#10: CAP [10]; n+[7], n-[3]; value=1.643580e-17
+#11: RES [11]; n+[10], n-[11]; value=1.788240e-01
+#12: RES [12]; n+[11], n-[12]; value=2.642210e-01
+#13: RES [13]; n+[3], n-[12]; value=3.935710e-01
+#14: CAP [14]; n+[7], n-[13]; value=8.496070e-18
+#15: CAP [15]; n+[7], n-[14]; value=3.681130e-17
+#16: CAP [16]; n+[7], n-[2]; value=8.652210e-17
+#17: CAP [17]; n+[7], n-[5]; value=4.180990e-17
+#18: RES [18]; n+[15], n-[13]; value=4.747140e+00
+#19: RES [19]; n+[16], n-[13]; value=4.747140e+00
+#20: RES [20]; n+[13], n-[14]; value=2.500120e+01
+#21: RES [21]; n+[14], n-[17]; value=1.560710e-01
+#22: RES [22]; n+[2], n-[15]; value=1.064700e+02
+#23: RES [23]; n+[5], n-[16]; value=3.822000e+01
+#24: CAP [24]; n+[7], n-[1]; value=3.981140e-17
+#25: CAP [25]; n+[7], n-[4]; value=4.095570e-17
+#26: CAP [26]; n+[7], n-[18]; value=8.742170e-17
+#27: RES [27]; n+[19], n-[1]; value=3.047800e-01
+#28: RES [28]; n+[18], n-[19]; value=2.632860e+00
+#29: RES [29]; n+[20], n-[4]; value=3.047800e-01
+#30: RES [30]; n+[18], n-[20]; value=1.872860e+00
+
+Vetor id do no => rotulo do no:
+
+No 0: 0
+No 1: N_ZN_M0_d
+No 2: N_A_M0_g
+No 3: N_VDD_M0_s
+No 4: N_ZN_M1_d
+No 5: N_A_M1_g
+No 6: N_VSS_M1_s
+No 7: VSS
+No 8: x_PM_INV_X1%VSS_6
+No 9: x_PM_INV_X1%VSS_2
+No 10: VDD
+No 11: x_PM_INV_X1%VDD_6
+No 12: x_PM_INV_X1%VDD_2
+No 13: x_PM_INV_X1%A_14
+No 14: x_PM_INV_X1%A_12
+No 15: x_PM_INV_X1%A_18
+No 16: x_PM_INV_X1%A_17
+No 17: A
+No 18: ZN
+No 19: x_PM_INV_X1%ZN_4
+No 20: x_PM_INV_X1%ZN_3
+
+Vetor id do rotulo => rotulo:
+
+Rotulo 0: M_M1
+Rotulo 1: M_M0
+Rotulo 2: C_x_PM_INV_X1%VSS_c0
+Rotulo 3: C_x_PM_INV_X1%VSS_c1
+Rotulo 4: C_x_PM_INV_X1%VSS_c2
+Rotulo 5: R_x_PM_INV_X1%VSS_r3
+Rotulo 6: R_x_PM_INV_X1%VSS_r4
+Rotulo 7: R_x_PM_INV_X1%VSS_r5
+Rotulo 8: C_x_PM_INV_X1%VDD_c0
+Rotulo 9: C_x_PM_INV_X1%VDD_c1
+Rotulo 10: C_x_PM_INV_X1%VDD_c2
+Rotulo 11: R_x_PM_INV_X1%VDD_r3
+Rotulo 12: R_x_PM_INV_X1%VDD_r4
+Rotulo 13: R_x_PM_INV_X1%VDD_r5
+Rotulo 14: C_x_PM_INV_X1%A_c0
+Rotulo 15: C_x_PM_INV_X1%A_c1
+Rotulo 16: C_x_PM_INV_X1%A_c2
+Rotulo 17: C_x_PM_INV_X1%A_c3
+Rotulo 18: R_x_PM_INV_X1%A_r4
+Rotulo 19: R_x_PM_INV_X1%A_r5
+Rotulo 20: R_x_PM_INV_X1%A_r6
+Rotulo 21: R_x_PM_INV_X1%A_r7
+Rotulo 22: R_x_PM_INV_X1%A_r8
+Rotulo 23: R_x_PM_INV_X1%A_r9
+Rotulo 24: C_x_PM_INV_X1%ZN_c0
+Rotulo 25: C_x_PM_INV_X1%ZN_c1
+Rotulo 26: C_x_PM_INV_X1%ZN_c2
+Rotulo 27: R_x_PM_INV_X1%ZN_r3
+Rotulo 28: R_x_PM_INV_X1%ZN_r4
+Rotulo 29: R_x_PM_INV_X1%ZN_r5
+Rotulo 30: R_x_PM_INV_X1%ZN_r6

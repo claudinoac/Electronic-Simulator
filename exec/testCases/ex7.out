@@ -1,0 +1,34 @@
+Lista encadeada de elementos:
+
+#0: VS  [0]; n+[1], n-[0]; value=-5.466238e+00
+#1: RES [1]; n+[2], n-[0]; value=2.000000e+01
+#2: IS  [2]; n+[2], n-[1]; value=5.000000e+00
+#3: RES [3]; n+[2], n-[3]; value=1.000000e+01
+#4: RES [4]; n+[3], n-[1]; value=4.000000e+01
+#5: RES [5]; n+[3], n-[1]; value=6.000000e+01
+#6: VS  [6]; n+[3], n-[4]; value=1.000000e+01
+#7: RES [7]; n+[4], n-[0]; value=2.000000e+01
+#8: RES [8]; n+[3], n-[5]; value=2.000000e+01
+#9: VS  [9]; n+[5], n-[0]; value=0.000000e+00
+
+Vetor id do no => rotulo do no:
+
+No 0: 0
+No 1: b
+No 2: a
+No 3: c
+No 4: d
+No 5: f
+
+Vetor id do rotulo => rotulo:
+
+Rotulo 0: V_Vesq
+Rotulo 1: R_Resq
+Rotulo 2: I_Icima
+Rotulo 3: R_Rmeio
+Rotulo 4: R_Rdi_1
+Rotulo 5: R_Rdi_2
+Rotulo 6: V_Vdir
+Rotulo 7: R_Rdi_3
+Rotulo 8: R_Rdi_4
+Rotulo 9: V_amp
